@@ -1,0 +1,16 @@
+body{
+    width:800px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    border-bottom:2px solid blue;
+}
+
+#Loren{
+    border:1px solid grey;
+    padding:5px;
+}
